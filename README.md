@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Split** is a revolutionary expense-splitting app designed to simplify the process of sharing costs within groups. Whether you're splitting bills with roommates, organizing group activities, or managing shared expenses among friends, Split ensures a hassle-free and equitable way to settle up.
+**Split** is a free, open-source expense-splitting app designed to simplify the process of sharing costs within groups. Whether you're splitting bills with roommates, organizing group activities, or managing shared expenses among friends, Split ensures a hassle-free and equitable way to settle up.
 
 ## Key Features
 
